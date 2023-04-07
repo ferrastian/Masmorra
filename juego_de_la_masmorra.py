@@ -60,3 +60,4 @@ if opcion == "A":
                         print("Caminan hacia la derecha y al final del oscuro pasillo se encuentran con"
                               "el tesoro soñado y encuentran la salida para salir con vida de la masmorra.\n"
                               "Fin de Juego")
+
